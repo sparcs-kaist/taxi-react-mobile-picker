@@ -1,11 +1,11 @@
 {
-  "name": "react-mobile-picker-mod",
-  "version": "0.1.18",
+  "name": "@sparcs-kaist/taxi-react-mobile-picker",
+  "version": "0.0.1",
   "description": "An iOS like select box component for React, forked from adcentury/react-mobile-picker",
   "main": "lib/react-mobile-picker.js",
   "repository": {
     "type": "git",
-    "url": "withSang/react-mobile-picker"
+    "url": "sparcs-kaist/taxi-react-mobile-picker"
   },
   "files": [
     "LICENCE",
@@ -21,7 +21,10 @@
     "react-component",
     "react components",
     "react ui",
-    "mobile ui"
+    "mobile ui",
+    "kaist",
+    "sparcs",
+    "taxi"
   ],
   "dependencies": {
     "prop-types": "^15.8.1"
@@ -58,8 +61,12 @@
     "test": "npm run lint"
   },
   "author": {
-    "name": "Sang Jeong",
-    "email": "jsa5115@naver.com"
+    "name": "taxi@SPARCS@KAIST",
+    "url": "https://sparcs.org/"
   },
+  "contributors": [
+    "Sang Jeong <jsa5115@naver.com>",
+    "Geon Kim <geon6757@kaist.ac.kr>"
+  ],
   "license": "MIT"
 }

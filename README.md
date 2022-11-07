@@ -1,10 +1,4 @@
-# React Mobile Picker
-
-[![Travis](https://travis-ci.org/adcentury/react-mobile-picker.svg?branch=master)](https://travis-ci.org/adcentury/react-mobile-picker) [![npm](https://img.shields.io/npm/dm/react-mobile-picker.svg)](https://www.npmjs.com/package/react-mobile-picker) [![GitHub license](https://img.shields.io/github/license/adcentury/react-mobile-picker.svg)](https://github.com/adcentury/react-mobile-picker/blob/master/LICENSE)
-
-React Mobile Picker is a super simple component with no restriction, which means you can use it in any way you want.
-
-![screen-capture](./examples/screen-capture.gif)
+# SPARCS Taxi - React Mobile Picker
 
 ## Preview
 
@@ -13,7 +7,7 @@ Visit (in mobile or mobile simulator): [sparcs-kaist.github.io/taxi-react-mobile
 ## Install
 
 ```
-npm install react-mobile-picker-mod --save
+npm install taxi-react-mobile-picker --save
 ```
 
 ## Usage
@@ -21,13 +15,13 @@ npm install react-mobile-picker-mod --save
 ### ES6
 
 ```javascript
-import Picker from "react-mobile-picker-mod";
+import Picker from "taxi-react-mobile-picker";
 ```
 
 ### CommonJS
 
 ```javascript
-const Picker = require("react-mobile-picker-mod");
+const Picker = require("taxi-react-mobile-picker");
 ```
 
 ## Props
@@ -49,7 +43,7 @@ Here is an example of how to integrate React Mobile Picker:
 
 ```javascript
 import React, { Component } from "react";
-import Picker from "react-mobile-picker";
+import Picker from "taxi-react-mobile-picker";
 
 class App extends Component {
   constructor(props) {
