@@ -7,7 +7,7 @@ Visit (in mobile or mobile simulator): [sparcs-kaist.github.io/taxi-react-mobile
 ## Install
 
 ```
-npm install taxi-react-mobile-picker --save
+npm install @sparcs-kaist/taxi-react-mobile-picker --save
 ```
 
 ## Usage
@@ -15,13 +15,13 @@ npm install taxi-react-mobile-picker --save
 ### ES6
 
 ```javascript
-import Picker from "taxi-react-mobile-picker";
+import Picker from "@sparcs-kaist/taxi-react-mobile-picker";
 ```
 
 ### CommonJS
 
 ```javascript
-const Picker = require("taxi-react-mobile-picker");
+const Picker = require("@sparcs-kaist/taxi-react-mobile-picker");
 ```
 
 ## Props
@@ -43,7 +43,7 @@ Here is an example of how to integrate React Mobile Picker:
 
 ```javascript
 import React, { Component } from "react";
-import Picker from "taxi-react-mobile-picker";
+import Picker from "@sparcs-kaist/taxi-react-mobile-picker";
 
 class App extends Component {
   constructor(props) {
