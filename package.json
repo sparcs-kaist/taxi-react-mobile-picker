@@ -1,5 +1,5 @@
 {
-  "name": "taxi-react-mobile-picker",
+  "name": "@sparcs-kaist/taxi-react-mobile-picker",
   "version": "0.0.1",
   "description": "An iOS like select box component for React, forked from adcentury/react-mobile-picker",
   "main": "lib/react-mobile-picker.js",
